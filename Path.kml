@@ -2,117 +2,45 @@
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
     <Document id="1">
         <Placemark id="3">
-            <name>chapel</name>
-            <Point id="2">
-                <coordinates>-1.132660657317595,51.44807703767772,68.03947478674893</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="5">
-            <name>library</name>
-            <Point id="4">
-                <coordinates>-1.132090599914353,51.4480008010675,72.17404393884931</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="7">
-            <name>sciencestairs</name>
-            <Point id="6">
-                <coordinates>-1.131894732253822,51.44817277541026,71.57634324837763</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="9">
-            <name>scienceroad</name>
-            <Point id="8">
-                <coordinates>-1.131554448594252,51.44843911812137,70.3823033241979</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="11">
-            <name>crosswaysheadside</name>
-            <Point id="10">
-                <coordinates>-1.130791291594917,51.44912990814731,65.90854907414675</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="13">
-            <name>crosswayshillside</name>
-            <Point id="12">
-                <coordinates>-1.130600697141567,51.44917940436362,66.2724682002498</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="15">
             <name>bryn</name>
-            <Point id="14">
+            <Point id="2">
                 <coordinates>-1.129906114253402,51.44883750703265,73.38888131733198</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="17">
-            <name>hill2split</name>
-            <Point id="16">
-                <coordinates>-1.127796145342701,51.44836516433054,89.9685314392099</coordinates>
+        <Placemark id="5">
+            <name>hhouse</name>
+            <Point id="4">
+                <coordinates>-1.125824683408079,51.44890681575254,90.91351611687318</coordinates>
             </Point>
         </Placemark>
-        <Placemark id="19">
-            <name>topofhill2</name>
-            <Point id="18">
-                <coordinates>-1.126998493474015,51.44820971249831,90.40740205968582</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="21">
-            <name>dhouse</name>
-            <Point id="20">
-                <coordinates>-1.126526740522462,51.448040364981,91.29787341082708</coordinates>
-            </Point>
-        </Placemark>
-        <Placemark id="23">
-            <name>library-chapel</name>
-            <LineString id="22">
-                <coordinates>-1.132087636805035,51.44800773230681,72.03568794572067 -1.132081276799922,51.44807561116736,71.16471976048786 -1.13216529163614,51.44811775441041,70.01148701514926 -1.132357547983313,51.44795320613311,70.64219591965971 -1.132625730990774,51.44796622730775,69.30688762963298 -1.132695794282123,51.4479910216433,68.63834774213508 -1.132669756355268,51.44807917927874,67.80920463271414</coordinates>
+        <Placemark id="7">
+            <name>faulknerhallturn-hhouse</name>
+            <LineString id="6">
+                <coordinates>-1.126018817454567,51.4488117730012,90.26552100059313 -1.125828197728034,51.4489112101769,90.81194118260747</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="25">
-            <name>library-sciencestairs</name>
-            <LineString id="24">
-                <coordinates>-1.132090244509227,51.44800614923975,72.03341548707034 -1.132087641812159,51.44807088792981,71.18942023875107 -1.131901696183235,51.44817846377832,71.31867562456308</coordinates>
+        <Placemark id="9">
+            <name>designturn-faulknerhallturn</name>
+            <LineString id="8">
+                <coordinates>-1.126220289644728,51.44870987066869,90.02613203702914 -1.126018246878241,51.44881363958693,90.27177779240857</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="27">
-            <name>sciencestairs-scienceroad</name>
-            <LineString id="26">
-                <coordinates>-1.131898130002195,51.44817933804863,71.345191340041 -1.131558239154318,51.44844069297586,70.2666677044434</coordinates>
+        <Placemark id="11">
+            <name>faulkners-designturn</name>
+            <LineString id="10">
+                <coordinates>-1.12696183921084,51.44860174127902,90.11855309218737 -1.126817489064774,51.44854447190449,89.3337402169876 -1.126220289644728,51.44870987066869,90.02613203702914</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="29">
-            <name>scienceroad-crosswaysheadside</name>
-            <LineString id="28">
-                <coordinates>-1.13155517688438,51.44844276625245,70.27522031499818 -1.130880735058852,51.44910724887311,65.88162565191614 -1.130792626122545,51.44913653374826,65.71957204474681</coordinates>
+        <Placemark id="13">
+            <name>faulkners-hill2split</name>
+            <LineString id="12">
+                <coordinates>-1.126971159202819,51.4486006097944,90.11532947629594 -1.127099226353683,51.44856881652586,89.78681570858721 -1.127428913100166,51.44831675058176,90.27422558399604 -1.127787784219757,51.44836913465664,89.90755554904716</coordinates>
             </LineString>
         </Placemark>
-        <Placemark id="31">
-            <name>crosswaysheadside-crosswayshillside</name>
-            <LineString id="30">
-                <coordinates>-1.130788661898406,51.44913730097786,65.72818332359996 -1.130609492504385,51.4491846758576,66.07077056953302</coordinates>
-            </LineString>
-        </Placemark>
-        <Placemark id="33">
-            <name>crosswayshillside-bryn</name>
-            <LineString id="32">
-                <coordinates>-1.130604115650093,51.44918042290424,66.17098535560055 -1.130462020726556,51.44908328589583,68.42245436684183 -1.130189143036272,51.4489621988716,70.65568948823679 -1.129907537271485,51.44884362499965,73.26366406358449</coordinates>
-            </LineString>
-        </Placemark>
-        <Placemark id="35">
+        <Placemark id="15">
             <name>hill2split-bryn</name>
-            <LineString id="34">
+            <LineString id="14">
                 <coordinates>-1.127802737765409,51.44836583858667,89.85363440610341 -1.12864349610219,51.44846528524228,85.42032860318959 -1.129228281977833,51.44859893560044,81.89135374494366 -1.129656326115448,51.44873080471161,78.04465580799405 -1.129906579420716,51.44883875510678,73.69409757000095</coordinates>
-            </LineString>
-        </Placemark>
-        <Placemark id="37">
-            <name>topofhill2-hill2split</name>
-            <LineString id="36">
-                <coordinates>-1.126994748221547,51.44821792726161,90.23671260830999 -1.127422575458374,51.44831677381251,90.24011604581793 -1.12779196699868,51.44837044324936,89.90235290229087</coordinates>
-            </LineString>
-        </Placemark>
-        <Placemark id="39">
-            <name>dhouse-topofhill2</name>
-            <LineString id="38">
-                <coordinates>-1.12699301773817,51.44821341050724,90.28425941205892 -1.126596575139491,51.44798069627728,91.1433008423534 -1.126528640073898,51.44804107260227,91.19586790224061</coordinates>
             </LineString>
         </Placemark>
     </Document>
